@@ -12,3 +12,8 @@ You can see the images of website in the "screenshots" folder in this repository
 
 Or You can directly visit the website (https://akt114.github.io/coin-fundu/)
 
+Technology Stack:
+
+1.) ReactJS
+2.) HTML
+3.) CSS
